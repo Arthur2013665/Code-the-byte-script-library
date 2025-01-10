@@ -1,10 +1,10 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Byte Squad Roblox Script Library",
+    Name = "Code the byte Roblox Script Library",
     Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-    LoadingTitle = "Byte Squad Roblox Script Library",
-    LoadingSubtitle = "By Byte Squad",
+    LoadingTitle = "Code the byte Roblox Script Library",
+    LoadingSubtitle = "By Code the byte",
     Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
  
     DisableRayfieldPrompts = false,
@@ -45,21 +45,21 @@ local Window = Rayfield:CreateWindow({
  })
 
  local Button = Tab:CreateButton({
-    Name = "Button Example",
+    Name = "Bloxfruits",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))() 
     end,
  })
 
  local Button = Tab:CreateButton({
-    Name = "Button Example",
+    Name = "Arsenal",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/JackyPoopoo/cartel/main/0000000000000000000000000000000000000000000000000"))() 
     end,
  })
 
  local Button = Tab:CreateButton({
-    Name = "Button Example",
+    Name = "Jujutsu infinite",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/JujutsuInfinite"))() 
     end,
