@@ -1,2 +1,1 @@
-This is for educational purposes! Dont ban me pls!
-It is private!
+This is a roblox hack! made by te whole code the byte team!
